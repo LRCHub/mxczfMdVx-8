@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "PARADOX",
+  "base_artist": "Sora Amamiya",
+  "createdAt": "2025-12-09T13:29:17.217095Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Paradox",
+      "artist": "Sheena Easton",
+      "has_synced": true,
+      "path": "select/01_Paradox_Sheena_Easton.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Time Paradox",
+      "artist": "Mitch Murder feat. Satellite Young",
+      "has_synced": false,
+      "path": "select/02_Time_Paradox_Mitch_Murder_feat._Satellite_Young.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Time Paradox (feat. Satellite Young)",
+      "artist": "Mitch Murder",
+      "has_synced": false,
+      "path": "select/03_Time_Paradox_(feat._Satellite_Young)_Mitch_Murder.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Judd's Paradox",
+      "artist": "The Duckworth Lewis Method",
+      "has_synced": false,
+      "path": "select/04_Judd's_Paradox_The_Duckworth_Lewis_Method.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Paradox",
+      "artist": "Hypocrisy",
+      "has_synced": false,
+      "path": "select/05_Paradox_Hypocrisy.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Paradox (live)",
+      "artist": "Paradox",
+      "has_synced": false,
+      "path": "select/06_Paradox_(live)_Paradox.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Surprise, Surprise (Sweet Bird of Paradox)",
+      "artist": "John Lennon",
+      "has_synced": true,
+      "path": "select/07_Surprise,_Surprise_(Sweet_Bird_of_Paradox)_John_Lennon.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Telling Lies - Paradox Mix",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/08_Telling_Lies_-_Paradox_Mix_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Telling Lies (Paradox Mix)",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/09_Telling_Lies_(Paradox_Mix)_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Paradox",
+      "artist": "Hawkwind",
+      "has_synced": false,
+      "path": "select/10_Paradox_Hawkwind.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Paradox (remixed single edit)",
+      "artist": "Hawkwind",
+      "has_synced": true,
+      "path": "select/11_Paradox_(remixed_single_edit)_Hawkwind.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Paradox (remix single edit)",
+      "artist": "Hawkwind",
+      "has_synced": false,
+      "path": "select/12_Paradox_(remix_single_edit)_Hawkwind.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Fermi Paradox",
+      "artist": "Avenged Sevenfold",
+      "has_synced": true,
+      "path": "select/13_Fermi_Paradox_Avenged_Sevenfold.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Trophies for Paradox",
+      "artist": "Braids",
+      "has_synced": false,
+      "path": "select/14_Trophies_for_Paradox_Braids.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Paradox (Live at Edmonton Sundown)",
+      "artist": "Hawkwind",
+      "has_synced": false,
+      "path": "select/15_Paradox_(Live_at_Edmonton_Sundown)_Hawkwind.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Paradox - Live At Edmonton Sundown; Remix Single Edit; 1996 Remastered Version",
+      "artist": "Hawkwind",
+      "has_synced": false,
+      "path": "select/16_Paradox_-_Live_At_Edmonton_Sundown;_Remix_Single_Edit;_1996_Remastered_Version_Hawkwind.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Paradox (Live at Edmonton Sundown; Remix Single Edit; 1996 Remaster)",
+      "artist": "Hawkwind",
+      "has_synced": false,
+      "path": "select/17_Paradox_(Live_at_Edmonton_Sundown;_Remix_Single_Edit;_1996_Remaster)_Hawkwind.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Paradox - Live At Edmonton Sundown;Remixed Single Edit",
+      "artist": "Hawkwind",
+      "has_synced": false,
+      "path": "select/18_Paradox_-_Live_At_Edmonton_Sundown;Remixed_Single_Edit_Hawkwind.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "PARADOX",
+      "artist": "雨宮天",
+      "has_synced": false,
+      "path": "select/pl_01_PARADOX_雨宮天.txt"
+    }
+  ]
+}
